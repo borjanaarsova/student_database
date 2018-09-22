@@ -1,0 +1,16 @@
+C:\Users\User\AppData\Local\Temporary Projects\seminarska\obj\x86\Debug\seminarska.Form1.resources
+C:\Users\User\AppData\Local\Temporary Projects\seminarska\obj\x86\Debug\seminarska.Properties.Resources.resources
+C:\Users\User\AppData\Local\Temporary Projects\seminarska\obj\x86\Debug\seminarska.csproj.GenerateResource.Cache
+C:\Users\User\AppData\Local\Temporary Projects\seminarska\bin\Debug\seminarska.exe
+C:\Users\User\AppData\Local\Temporary Projects\seminarska\bin\Debug\seminarska.pdb
+C:\Users\User\AppData\Local\Temporary Projects\seminarska\obj\x86\Debug\seminarska.exe
+C:\Users\User\AppData\Local\Temporary Projects\seminarska\obj\x86\Debug\seminarska.pdb
+C:\Users\User\Desktop\fax\4 semestar\bazi na podatoci\programa\seminarska\seminarska\obj\x86\Debug\seminarska.exe
+C:\Users\User\Desktop\fax\4 semestar\bazi na podatoci\programa\seminarska\seminarska\obj\x86\Debug\seminarska.pdb
+C:\Users\User\Desktop\fax\4 semestar\bazi na podatoci\programa\seminarska\seminarska\obj\x86\Debug\seminarska.Form1.resources
+C:\Users\User\Desktop\fax\4 semestar\bazi na podatoci\programa\seminarska\seminarska\obj\x86\Debug\seminarska.Form2.resources
+C:\Users\User\Desktop\fax\4 semestar\bazi na podatoci\programa\seminarska\seminarska\obj\x86\Debug\seminarska.Properties.Resources.resources
+C:\Users\User\Desktop\fax\4 semestar\bazi na podatoci\programa\seminarska\seminarska\obj\x86\Debug\seminarska.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\fax\4 semestar\bazi na podatoci\programa\seminarska\seminarska\bin\Debug\seminarska.exe
+C:\Users\User\Desktop\fax\4 semestar\bazi na podatoci\programa\seminarska\seminarska\bin\Debug\seminarska.pdb
+C:\Users\User\Desktop\fax\4 semestar\bazi na podatoci\programa\seminarska\seminarska\obj\x86\Debug\seminarska.csprojResolveAssemblyReference.cache
